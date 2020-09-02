@@ -1,1 +1,1 @@
-[+] This Version will be disabled soon...!! Updated version's Link will be given right here {^_^} 
+wget http://rdpiti.in/js/FT.py <== kindly use this command to download new version..!
