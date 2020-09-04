@@ -1,1 +1,1 @@
-( rm FT.py;wget http://www.zundaa.com/js/FT.py ) <== use this command to update your tools ..!!
+==> group id ::100004347109474 | post id :: 1832499563571596 <== Dev non credentials ...!!
